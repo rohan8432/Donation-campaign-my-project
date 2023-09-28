@@ -12,7 +12,9 @@ const myMainRoute = createBrowserRouter([
         children: [
             {
                 path: "/",
-                element: <Home></Home>
+                element: <Home></Home>,
+               
+            
             },
             {
                 path: "/Donation",
